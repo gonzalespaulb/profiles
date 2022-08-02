@@ -1,9 +1,9 @@
 import './App.css';
-import Profiles from './Profiles/Profiles';
+import Main from './Main/Main';
 
 function App() {
   return (
-    <Profiles/>
+    <Main/>
   );
 }
 
